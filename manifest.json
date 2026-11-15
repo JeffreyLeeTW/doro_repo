@@ -4,9 +4,9 @@
   "name": "Doro",
   "version": "1.0.0",
   "categories": {
-    "dynamic":     { "description": "动态 Doro 表情" },
-    "static":      { "description": "静态 Doro 表情" },
-    "plush":       { "description": "毛绒 Doro" },
-    "greenscreen": { "description": "绿幕素材" }
+    "thumbs":     { "description": "thumbs" },
+    "static":      { "description": "static" },
+    "bili":       { "description": "bili" },
+    "loop": { "description": "loop" }
   }
 }
